@@ -17,7 +17,7 @@
    xml:space="preserve"
    sodipodi:docname="base.svg"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
-   inkscape:export-filename="C:\Users\Stove Bucks\Documents\dualshock4-overlays\test\svg\base.png"
+   inkscape:export-filename="C:\Users\Stove Bucks\Documents\dualshock4-overlays\shura\svg\bitmap.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"><metadata
    id="metadata1302"><rdf:RDF><cc:Work
@@ -36,13 +36,13 @@
    inkscape:window-height="1017"
    id="namedview1298"
    showgrid="false"
-   inkscape:zoom="1.1789508"
+   inkscape:zoom="1.2646927"
    inkscape:cx="333.1813"
-   inkscape:cy="344.22357"
+   inkscape:cy="298.06369"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Shapes"
+   inkscape:current-layer="Layer_1"
    inkscape:document-rotation="0" />
 <style
    type="text/css"
@@ -337,12 +337,14 @@
    cx="274.8"
    cy="356"
    r="51.5"
-   id="circle1114" />
+   id="circle1114"
+   style="fill:#241c1c;fill-opacity:1" />
 	<circle
    cx="531.4"
    cy="356"
    r="51.5"
-   id="circle1116" />
+   id="circle1116"
+   style="fill:#241c1c;fill-opacity:1" />
 	<circle
    cx="652.4"
    cy="244.8"
@@ -358,7 +360,8 @@
 	<path
    class="st4"
    d="M230.5,254.1l9.5-8.9c0.5-0.4,0.5-1.2,0.1-1.6c0,0,0-0.1-0.1-0.1l-9.5-8.9c-0.4-0.4-1.2-0.4-1.6,0   c-0.2,0.2-0.3,0.5-0.3,0.8v17.8c0,0.6,0.5,1.2,1.1,1.2C230,254.4,230.3,254.3,230.5,254.1z"
-   id="path1122" />
+   id="path1122"
+   style="fill:#d19e00;fill-opacity:1" />
 	<path
    class="st4"
    d="M145.1,169.8h17.8c0.6,0,1.1-0.5,1.1-1.1c0-0.3-0.1-0.6-0.3-0.8l-8.9-9.5c-0.4-0.5-1.2-0.5-1.6-0.1   c0,0-0.1,0-0.1,0.1l-8.9,9.5c-0.4,0.5-0.3,1.2,0.2,1.6C144.6,169.7,144.8,169.8,145.1,169.8z"
@@ -422,21 +425,23 @@
 	<path
    class="st6"
    d="M697.3,109.9c0-0.8-0.4-1.5-1.1-1.9c-4.5-2.9-23.4-13.6-51.5-13.6c-26.9,0-41.1,5.9-45.1,8   c-0.7,0.4-1.2,1.2-1.2,2c0,0,9.8-2.9,47.5-2.9S697.3,109.9,697.3,109.9z"
-   id="path1154" />
+   id="path1154"
+   style="fill:#f5f5f5;fill-opacity:1" />
 	<path
    class="st1"
    d="M697.2,116.8L697.2,116.8v-6.9c0,0-13.7-8.4-51.4-8.4s-47.5,2.9-47.5,2.9v11l0,0c7.7-1.3,21.2-2.6,44.1-2.6   C670.9,112.9,688.3,115.2,697.2,116.8z"
    id="path1156"
-   style="fill:#f5f5f5;fill-opacity:1" />
+   style="fill:#ededed;fill-opacity:1" />
 	<path
    class="st6"
    d="M108.9,109.9c0-0.8,0.4-1.5,1.1-1.9c4.5-2.9,23.4-13.6,51.5-13.6c26.9,0,41.1,5.9,45.1,8   c0.7,0.4,1.2,1.2,1.2,2c0,0-9.8-2.9-47.5-2.9S108.9,109.9,108.9,109.9z"
-   id="path1158" />
+   id="path1158"
+   style="fill:#f5f5f5;fill-opacity:1" />
 	<path
    class="st1"
    d="M109,116.8L109,116.8v-6.9c0,0,13.7-8.4,51.4-8.4s47.5,2.9,47.5,2.9v11l0,0c-7.7-1.3-21.2-2.6-44.1-2.6   C135.3,112.9,117.9,115.2,109,116.8z"
    id="path1160"
-   style="fill:#f5f5f5;fill-opacity:1" />
+   style="fill:#ededed;fill-opacity:1" />
 	<g
    id="Shapes">
 		<path
@@ -591,18 +596,21 @@
 		<path
    class="st15"
    d="M105.3,544.5C64.8,541.7,29.5,524.2,18,514S0.5,482.5,0.5,482.5c-0.4,15-0.4,26.3-0.4,26.3    s4.5,53.4,36.2,74.9s56.7,14,56.7,14s33.1-8.2,57.8-41.9c5.3-7.6,10-15.5,14.1-23.8C164.8,531.9,145.7,547.2,105.3,544.5z"
-   id="path1228" />
+   id="path1228"
+   style="fill:#b63232;fill-opacity:1" />
 		<path
    class="st16"
    d="M90.1,592.5c-12.5,1.8-31.3-2-45.1-7.7c-13.6-5.7-24-16.4-24-16.4c4.2,5.9,9.4,11,15.3,15.2    c31.7,21.5,56.7,14,56.7,14s11.7-2.9,26.3-12.3C109.8,588.6,100,591,90.1,592.5z"
    id="path1230" />
 	</g>
 	<g
-   id="Shadow_Right">
+   id="Shadow_Right"
+   style="fill:#000000;fill-opacity:1">
 		<path
    class="st14"
    d="M700.9,544.5c40.5-2.8,75.8-20.3,87.3-30.5s17.5-31.5,17.5-31.5c0.4,15,0.4,26.3,0.4,26.3    s-4.5,53.4-36.2,74.9s-56.7,14-56.7,14s-33.1-8.2-57.8-41.9c-5.3-7.6-10-15.5-14.1-23.8C641.4,531.9,660.5,547.2,700.9,544.5z"
-   id="path1233" />
+   id="path1233"
+   style="fill:#000000;fill-opacity:1" />
 		
 			<pattern
    id="SVGID_4_"
@@ -612,11 +620,13 @@
 		<path
    class="st17"
    d="M700.9,544.5c40.5-2.8,75.8-20.3,87.3-30.5s17.5-31.5,17.5-31.5c0.4,15,0.4,26.3,0.4,26.3    s-4.5,53.4-36.2,74.9s-56.7,14-56.7,14s-33.1-8.2-57.8-41.9c-5.3-7.6-10-15.5-14.1-23.8C641.4,531.9,660.5,547.2,700.9,544.5z"
-   id="path1236" />
+   id="path1236"
+   style="fill:#b63232;fill-opacity:1" />
 		<path
    class="st16"
    d="M716.1,592.5c12.5,1.8,31.3-2,45.1-7.7c13.6-5.7,24-16.4,24-16.4c-4.2,5.9-9.4,11-15.3,15.2    c-31.7,21.5-56.7,14-56.7,14s-11.7-2.9-26.3-12.3C696.4,588.6,706.2,591,716.1,592.5z"
-   id="path1238" />
+   id="path1238"
+   style="fill:#000000;fill-opacity:1" />
 	</g>
 	<g
    id="Share_Options">
@@ -701,7 +711,8 @@
 			<path
    id="Dots"
    class="st22"
-   d="M275.6,253.5c0,8.6,7,15.6,15.6,15.6H515c8.6,0,15.6-7,15.6-15.6V147H275.7v106.5H275.6z" />
+   d="M275.6,253.5c0,8.6,7,15.6,15.6,15.6H515c8.6,0,15.6-7,15.6-15.6V147H275.7v106.5H275.6z"
+   style="opacity:0.258" />
 		</g>
 	</g>
 <image
